@@ -37,7 +37,7 @@ It goes like this:
 
 ![](images/commit_header.png?raw=true)
 
-### The commit header
+### The commit header or branch prefix
 The header is mandatory. It has a special format that includes a type, an
 optional scope, and a subject.
 
